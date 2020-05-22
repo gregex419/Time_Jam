@@ -1,0 +1,9 @@
+HEX Codes:
+
+Stamina Bar:
+- Top Color: #254773
+- Bottom Color: #001f41
+
+Frustration Bar:
+- Top Color: #fcee21 (left), #f7931e (middle), #ed1c24 (right)
+- Bottom Color: #3f0d00
